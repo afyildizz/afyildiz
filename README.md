@@ -1,2 +1,2 @@
-# afyildiz
+# PYHTON
 Just learn Phyton
